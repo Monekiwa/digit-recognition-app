@@ -1,4 +1,4 @@
-###Digit Recognition Model using Convolutional Neural Network (CNN)
+**Digit Recognition Model using Convolutional Neural Network (CNN)**
 
 This project is a digit recognition system built using a Convolutional Neural Network (CNN). The model is trained on the MNIST dataset and can predict hand-drawn digits on a canvas implemented using Tkinter.
 
